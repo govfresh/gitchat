@@ -5,5 +5,6 @@ GovFresh GitChat
 
 ## How it works
 
-- We start a new Q&A "Issue" with a featured civic leader.
-- You post your questions by adding a "Comment."
+- We start an open Q&A "Issue" with a featured civic innovator.
+- You post questions by adding a "Comment."
+- Each GovFresh GitChat lasts 24 hours.
