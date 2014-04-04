@@ -1,4 +1,4 @@
-GovFresh GitChat
+GitChat
 =======
 
 *Open chats with the world's leading civic innovators*
