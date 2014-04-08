@@ -8,10 +8,6 @@ GitChat
 - We start an open Q&A "Issue" with a featured civic innovator.
 - You post questions by adding a "Comment."
 
-## Now chatting
+## Recent chats
 
-David Bray, chief information officer, Federal Communications Commission
-
-[Submit your questions &raquo;](https://github.com/govfresh/gitchat/issues/1)
-
-![David Bray](https://avatars0.githubusercontent.com/u/6947051?s=460)
+- [David Bray](https://github.com/govfresh/gitchat/issues/1), chief information officer, Federal Communications Commission
