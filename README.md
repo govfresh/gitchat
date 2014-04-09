@@ -1,7 +1,7 @@
 GitChat
 =======
 
-*Open chats with the world's leading civic innovators*
+*GitChat is an open, informal chat with leading civic innovators using GitHub as a platform for engagement.*
 
 ## How it works
 
