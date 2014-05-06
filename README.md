@@ -3,6 +3,14 @@ GitChat
 
 *GitChat is an open, informal chat with leading civic innovators using GitHub as a platform for engagement.*
 
+### Featured guest
+
+**Gavin Newsom**, Lieutenant Governor, California
+
+### [Submit your questions &raquo;](https://github.com/govfresh/gitchat/issues/4)
+
+![gavinnewsom](https://cloud.githubusercontent.com/assets/1569463/2892765/cd0c5bfc-d540-11e3-8507-1ef11780e4d1.png)
+
 ## How it works
 
 - We start an open Q&A "Issue" with a featured civic innovator.
